@@ -74,7 +74,7 @@ The next prompt is:
 This tutorial also uses laminas-form, so we will again select "y" to install this;
 doing so emits a similar message to that used for laminas-db.
 
-At this point, we can answer "n" to the remaining features:
+We can answer "n" to the remaining features:
 
 ```text
     Would you like to install JSON de/serialization support? y/N
@@ -87,6 +87,12 @@ At this point, we can answer "n" to the remaining features:
     Would you like to install MVC testing support? y/N
     Would you like to install the laminas-di integration for laminas-servicemanager? y/N
 ```
+The last prompt (to date) you will receive will be: 
+
+```text
+    Do you want to remove the existing VCS (.git, .svn..) history? [Y,n]?
+```
+Your response will depend upon.....?  (please provide answer laminas experts)
 
 At a certain point, you'll see the following text:
 
